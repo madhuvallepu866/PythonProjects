@@ -74,5 +74,5 @@ class Atm:
             print("Incorrect Pin")
             count += 1
             if count == 3:
-                print("Please Try After Some Time")
+                print("Please Try After Some Time You have Limited Attempts")
                 break
